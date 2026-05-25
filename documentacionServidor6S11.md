@@ -13,7 +13,7 @@ markdown_content = """# TECNOLÓGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTA
 * García González Miguel Ángel
 * Ventura Vázquez Lany Camila
 
-**Fecha de Entrega:** 24 de Mayo de 2026  
+**Fecha de Entrega:** 26 de Mayo de 2026  
 
 ---
 
